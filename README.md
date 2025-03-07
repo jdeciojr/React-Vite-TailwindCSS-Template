@@ -40,6 +40,7 @@ Run your build process with npm run dev or whatever command is configured in you
 Start using Tailwind in your HTML
 Make sure your compiled CSS is included in the <head> (your framework might handle this for you), then start using Tailwind’s utility classes to style your content.
 
+<!--
 HTML
 <!doctype html>
 <html>
@@ -54,3 +55,4 @@ HTML
   </h1>
 </body>
 </html>
+-->
